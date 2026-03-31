@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 2025 年华南地区新能源双碳目标工作报告生成系统
 
 📊 自动化生成新能源数据分析报告和可视化图表
@@ -172,3 +173,9 @@ MIT License
 
 **开发时间:** 2026 年 4 月  
 **工作区:** `D:\AI-agent\openclaw-apri\projects\`
+
+---
+
+## 🔗 GitHub
+
+仓库地址：https://github.com/rhwkafn/claw-gittest
